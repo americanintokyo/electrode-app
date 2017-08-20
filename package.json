@@ -22,8 +22,8 @@
   },
   "license": "Apache-2.0",
   "engines": {
-    "node": ">= 4 <= 8",
-    "npm": ">= 3 <= 5"
+    "node": "^6.x.x",
+    "npm": "^3.x.x"
   },
   "scripts": {
     "build": "clap build",
